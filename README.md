@@ -5,7 +5,8 @@
 - 📫 How to reach me: coutruforodrigo@gmail.com
   
 <h2><b>Meus Conhecimentos</b></h2>
-![image](https://github.com/rodrigocoutrufo/rodrigocoutrufo/assets/139079367/0c9fcd8e-85d8-4213-9ca6-1973ed5ec0b9)
+<img>(https://github.com/rodrigocoutrufo/rodrigocoutrufo/assets/139079367/2bf38dd2-e23c-4b3f-b67a-2b0269fb03e0)</img>
+
 
 
 
